@@ -1,0 +1,7 @@
+download and install demo client dukas
+https://www.dukascopy.com/swiss/deutsch/forex/trading_login/
+install jforex_3_jnlp
+start client
+Login	DEMO2dPaNC
+Password dPaNC
+import Strategy MADAX
